@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Defne Dilbaz
 banner_subtitle: Electrical and Computer Engineering student at the University of Toronto. Passionate about computer hardware and quantum computing.
-background_image: /images/blue_background.jpg
+background_image: /images/b_background.jpg
 
 # all of the following variables are optional -----------------
 page_url: /defnedilbaz # only include this variable if you aren't building the page to your primary domain 
