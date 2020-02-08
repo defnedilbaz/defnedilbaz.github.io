@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Defne Dilbaz
 banner_subtitle: Electrical and Computer Engineering student at the University of Toronto. Passioante about computer hardware and quantum computing.
-background_image: /images/blue_background.jpeg
+background_image: /images/blue_background.jpg
 
 # all of the following variables are optional -----------------
 page_url: /defnedilbaz # only include this variable if you aren't building the page to your primary domain 
@@ -42,16 +42,15 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
+### **My name is Defne Dilbaz.**
   
-**hello** is a minimalist template that lets you design a beautiful website or portfolio on GitHub Pages - without installing a Ruby
-development environment, learning to use Jekyll, **or even typing a single line of code**. It's ideal for GitHubbers
-who want to start building their personal website on [GitHub Pages](https://pages.github.com/), but maybe aren't so familiar with web development.
-  
+I am a third year Electrical and Computer Engineering student at the University of Toronto with minors in Engineering Business and Robotics. 
 
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
+I am in the computer hardware and control streams. During second year, I built a [pattern memory game] (https://www.youtube.com/watch?v=O5tm9gaLZFA) in Verilog with my Digital Systems course partner, [Sarhad Salam] (https://github.com/SarhadSalam). For ECE297, Design and Communication course, I developed [SquadMaps](https://www.youtube.com/watch?v=0NwSkulI8CA) - a geographical information system (like Google Maps) in C++ - with [Sarhad Salam](https://github.com/SarhadSalam) and [Zeng Zeng] (https://github.com/XiuLuoShen). In third year, I took part in [Bridgestone World Solar Challenge 2019] (https://www.worldsolarchallenge.org/) as an electrical-electromechanical team member for [Blue Sky Solar Racing] (http://blueskysolar.utoronto.ca/?page_id=3687). I am passionate about [quantum computing] (https://www.youtube.com/watch?v=tUWtEOjGNU0) and currently, I am working with Dr. Thi Ha Kyaw on 0-U+03C0 qubit structure improvements. 
 
+Besides engineering, I am a creative writer since I was 6. I am also passionate about sketching, dancing, and music. 
 
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+Studying at a world-renowned university with students from various backgrounds and exceptional skills was my dream. Now, I get to live my dream on a daily basis, and I am forever grateful for all the opportunities I have in life. My long-term goal is to explore my field in-depth, take part in projects that will create a positive and lasting impact on our world, and have fun all the while doing it. 
+
+Feel free to get in touch with me if you are interested in my work. 
