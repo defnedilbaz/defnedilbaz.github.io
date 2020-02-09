@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Defne Dilbaz
 banner_subtitle: Electrical and Computer Engineering student at the University of Toronto. Passionate about computer hardware and quantum computing.
-background_image: /images/b_background.jpg
+background_image: /images/toronto_background.jpg
 
 # all of the following variables are optional -----------------
 page_url: /defnedilbaz # only include this variable if you aren't building the page to your primary domain 
@@ -15,9 +15,10 @@ page_url: /defnedilbaz # only include this variable if you aren't building the p
 favicon: /assets/ico/favicon.ico
 
 # social media
-twitter_username: notsaragong # # your twitter handle
+# twitter_username: notsaragong # # your twitter handle
 github_username:  defdil # your github username
 linkedin: defne-dilbaz # the part after ("https://www.linkedin.com/in/...")
+youtube: defnedilbaz
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
