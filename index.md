@@ -9,7 +9,7 @@ banner_subtitle: Electrical and Computer Engineering student at the University o
 background_image: /images/toronto_background.jpg
 
 # all of the following variables are optional -----------------
-page_url: /defnedilbaz # only include this variable if you aren't building the page to your primary domain 
+# page_url: /defnedilbaz # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
 favicon: /assets/ico/toronto_icon.jpg
@@ -22,16 +22,16 @@ linkedin: defne-dilbaz # the part after ("https://www.linkedin.com/in/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-# about_button: https://github.com/saragong/hello # the link
-# about_button_label: get hello # the label on the button
+about_button: https://github.com/saragong/hello # the link
+about_button_label: get hello # the label on the button
 
 # optional portfolio section ------------------------------------------
 
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
-portfolio: projects # the heading for your portfolio and title of your YAML file
-portfolio_description: I am trying to explore Electrical and Computer Engineering through working on projects in teams. Please feel free to contact me if you have any inquiries.
-# portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
+portfolio: work # the heading for your portfolio and title of your YAML file
+portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
+
 
 # optional CTA section --------------------------------------------------
 
