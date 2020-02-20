@@ -5,6 +5,9 @@ projects:
   - category: Feel the Grid
     items:
       - item: FeelTheGrid.html
+  - category: SquadMaps
+    items:
+      - item: SquadMaps.html
         # image: /images/NYC1.jpg # optionally, include the file path for an image for each item
       # - item: example.html
       #   image: /images/NYC2.jpg
