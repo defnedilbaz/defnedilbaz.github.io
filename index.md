@@ -47,6 +47,7 @@ cta_button_label: contact # the label on the button
 ### **My name is Defne Dilbaz.**
   
 I am a third year Electrical and Computer Engineering student at the University of Toronto with minors in Engineering Business and Robotics. 
+[link](https://github.com/defdil/Feel-The-Grid"){:target="_blank"}
 
 I am in the computer hardware and control streams. During second year, I built a <a href="https://github.com/defdil/Feel-The-Grid"target="_blank">pattern memory game: </a> in Verilog with my Digital Systems course partner, <a href ="https://github.com/SarhadSalam"target="blank">Sarhad Salam</a>. For ECE297, Design and Communication course, I developed <a href ="https://www.youtube.com/watch?v=0NwSkulI8CA"target="blank">SquadMaps</a> - a geographical information system (like Google Maps) in C++ - with <a href ="https://github.com/SarhadSalam"target="blank">Sarhad Salam</a> and <a href ="https://github.com/XiuLuoShen"target="blank">Zeng Zeng</a>. In third year, I took part in <a href ="https://www.worldsolarchallenge.org"target="blank">Bridgestone World Solar Challenge 2019</a> as an electrical-electromechanical team member for <a href ="http://blueskysolar.utoronto.ca/?page_id=368"target="blank">Blue Sky Solar Racing</a>. I am passionate about quantum computing and currently, I am working with <a href ="https://scholar.google.com/citations?user=rlS8SfoAAAAJ&hl=en"target="blank">Dr. Thi Ha Kyaw</a> on <a href ="https://www.youtube.com/watch?v=tUWtEOjGNU0"target="blank">0-&#960; qubit structure improvements</a>.
 
