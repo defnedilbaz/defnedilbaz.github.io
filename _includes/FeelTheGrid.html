@@ -1,6 +1,21 @@
 <h2><b>A pattern memory game for visually impaired people</b></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O5tm9gaLZFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; 
-    gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/O5tm9gaLZFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; 
+    gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+.video-container {
+    position:relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
 <p>"Feel the Grid" is a pattern memory game for visually impaired people. Think about a memory game where you try to remember a pattern you just saw, 
     and you have to recreate the pattern. Instead of trying a pattern you "saw", we use auditory signals to indicate where a "colored" tile
     is in a 3*3 grid as you hover your hand through the grid. Afterwards, you try to replicate the same pattern by placing your hand over which 
