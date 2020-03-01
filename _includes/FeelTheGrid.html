@@ -1,29 +1,31 @@
+<button type="button" class="collapsible">Learn More</button>
+<div class="content">
 <h2><b>A pattern memory game for visually impaired people</b></h2>
-<p> </p>
-<p style="position: relative; padding: 30px 0px 57% 0px; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/O5tm9gaLZFA" 
-    width="100%" height="100%" frameborder="0" style="display: block; margin: 0px auto; position: absolute; top: 0; left: 0;"></iframe></p>
-<p> </p>
-<p>"Feel the Grid" is a pattern memory game for visually impaired people. Think about a memory game where you try to remember a pattern you just saw, 
-    and you have to recreate the pattern. Instead of trying a pattern you "saw", we use auditory signals to indicate where a "colored" tile
-    is in a 3*3 grid as you hover your hand through the grid. Afterwards, you try to replicate the same pattern by placing your hand over which 
-    coordinate you remember to be colored. As you develop through the game, the pattern gets harder. 
-    <br></br>
-    Our game was written in verilog, and uses the following:
-    <ul style="list-style-type:disc;">
-        <li><a href="https://en.wikipedia.org/wiki/Linear-feedback_shift_register"target="_blank">LFSR: </a> We used line feedback shift register(LFSR)
-        to select from different patterns we have for each difficulty level stored in memory.
-        </li>
-        <li>VGA: Even though the game is tailored for visually impaired people, we still wanted audiences to be able to follow the game. 
-        VGA displays the 3*3 grid and updates as the user receives a pattern or inputs their tiles. 
-        </li>
-        <li>Visual Sensors: We used 6 visual sensors, 3 along each axis, and used Arduino to interpret the signals to inform our finite state 
-            machine about the coordinates of a hand detected.
-        </li>
-        <li>Audio output: We stored three different sounds in memory: hand hovering over colored tile, correct pattern, and wrong pattern. 
-            As the user is hovering their hand through the colored tiles, in the pattern recognition stage they hear the first sound. Once they 
-            input their pattern and press to see if their pattern was correct, they receive either a correct or wrong pattern sound.
-        </li>
-      </ul>
-    <i>I worked on "Feel the Grid" with <a href="https://github.com/SarhadSalam"target="_blank">Sarhad Salam</a> for our ECE241: Digital Systems course.</i>
-</p>
-    
+    <p> </p>
+    <p style="position: relative; padding: 30px 0px 57% 0px; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/O5tm9gaLZFA" 
+        width="100%" height="100%" frameborder="0" style="display: block; margin: 0px auto; position: absolute; top: 0; left: 0;"></iframe></p>
+    <p> </p>
+    <p>"Feel the Grid" is a pattern memory game for visually impaired people. Think about a memory game where you try to remember a pattern you just saw, 
+        and you have to recreate the pattern. Instead of trying a pattern you "saw", we use auditory signals to indicate where a "colored" tile
+        is in a 3*3 grid as you hover your hand through the grid. Afterwards, you try to replicate the same pattern by placing your hand over which 
+        coordinate you remember to be colored. As you develop through the game, the pattern gets harder. 
+        <br></br>
+        Our game was written in verilog, and uses the following:
+        <ul style="list-style-type:disc;">
+            <li><a href="https://en.wikipedia.org/wiki/Linear-feedback_shift_register"target="_blank">LFSR: </a> We used line feedback shift register(LFSR)
+            to select from different patterns we have for each difficulty level stored in memory.
+            </li>
+            <li>VGA: Even though the game is tailored for visually impaired people, we still wanted audiences to be able to follow the game. 
+            VGA displays the 3*3 grid and updates as the user receives a pattern or inputs their tiles. 
+            </li>
+            <li>Visual Sensors: We used 6 visual sensors, 3 along each axis, and used Arduino to interpret the signals to inform our finite state 
+                machine about the coordinates of a hand detected.
+            </li>
+            <li>Audio output: We stored three different sounds in memory: hand hovering over colored tile, correct pattern, and wrong pattern. 
+                As the user is hovering their hand through the colored tiles, in the pattern recognition stage they hear the first sound. Once they 
+                input their pattern and press to see if their pattern was correct, they receive either a correct or wrong pattern sound.
+            </li>
+        </ul>
+        <i>I worked on "Feel the Grid" with <a href="https://github.com/SarhadSalam"target="_blank">Sarhad Salam</a> for our ECE241: Digital Systems course.</i>
+    </p>
+</div>
