@@ -16,7 +16,7 @@ favicon: /assets/ico/toronto_icon.jpg
 
 # social media
 # twitter_username: notsaragong # # your twitter handle
-github_username:  defdil # your github username
+github_username:  defnedilbaz # your github username
 linkedin: defne-dilbaz # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
