@@ -8,6 +8,9 @@ projects:
   - category: SquadMaps
     items:
       - item: SquadMaps.html
+  - category: Photographic Recipe Search
+    items:
+      - item: PhotographicRecipe.html
         # image: /images/NYC1.jpg # optionally, include the file path for an image for each item
       # - item: example.html
       #   image: /images/NYC2.jpg
