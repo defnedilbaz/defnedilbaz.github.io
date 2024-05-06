@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Defne Dilbaz
-banner_subtitle: Electrical and Computer at Intel Corporation. University of Toronto Electrical and Computer Engineering Grad 2022. Minors in Engineering Business, Mechatronics and Robotics; and a Certificate in AI. 
+banner_subtitle: Software Developer at Intel Corporation. University of Toronto Electrical and Computer Engineering Grad 2022. Minors in Engineering Business, Mechatronics and Robotics; and a Certificate in AI. 
 background_image: /images/toronto_background.jpg
 
 # all of the following variables are optional -----------------
