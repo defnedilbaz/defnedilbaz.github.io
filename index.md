@@ -42,7 +42,7 @@ cta_button: mailto:defne.dilbaz@hotmail.com # a link to an external website or t
 cta_button_label: contact # the label on the button
 
 ---			
-[//]: # (write a bit about yourself here)
+[//]: # (write a bit about yourself here) Adding comment to force redeployment
 
 ### **My name is Defne Dilbaz.**
   
